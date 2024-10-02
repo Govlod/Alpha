@@ -1,9 +1,19 @@
 #product-overview{
     background: red;
+     margin: 20px;
+     width: 100%;
+     height: 100px;
+     padding: 10px;
+     border: 5px solid black;
+     margin: 10px;
+
    }
 
-   button{negative: -moz-element();
-}
+   .joo{
+    color: blue;
+    background-color: white;
+   }
+   
 
    h1{
     color: white; 
@@ -12,4 +22,50 @@
 
    .section-title{
     color: green ;
+    text-align: center;
+
+}
+
+   body {
+    background-color: aqua;
    }
+
+   .ele{
+    color: blue;
+   }
+
+   #matts{
+    background-color: aqua;
+   }
+   .lod{
+    color: bisque;
+    text-align: center;
+   }
+   
+   .sen{
+            color: blueviolet;
+         }
+         
+         .lid{
+            color: brown;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: center;
+         }
+         .jesse{
+            color: crimson;
+         }
+
+         *{
+            color: red !;
+         }
+
+         [disabled]{
+            color: red
+         }
+
+       
+
+
+         
+
+   
